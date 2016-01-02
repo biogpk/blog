@@ -2,7 +2,7 @@
 author: biogpk
 head: http://blog.biogpk.net/avatar.jpg
 date: 2016-01-01
-title: 开博之篇
+title: 启航
 status: publish
 summary: 随着新一年的到来，鄙人的博客也正式启用了。欢迎光临本博客。
 -->
@@ -20,7 +20,7 @@ summary: 随着新一年的到来，鄙人的博客也正式启用了。欢迎�
 - 数据可视化（包括R，js等）
 
 ### 其他说明
-本博客采用[gitblog][2]+[github][3]搭建的静态博客，使用[markdown][4]行编写文章。
+本博客采用[gitblog][2]+[github][3]搭建的静态博客，使用[markdown][4]撰写文章。
 
 [1]: http://blog.csdn.net/skenoy
 [2]: https://github.com/jockchou/gitblog
